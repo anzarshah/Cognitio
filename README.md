@@ -33,16 +33,3 @@ Emergency usage  - Web app
 
 ##### Data will be stored on top of ethereum on IPFS , Just like nft are saved all files and record will be saved .
 
-## PPT
-<img src="./PPT/COGNITIO_00001.JPG" alt="drawing" width="450"/>
-<img src="./PPT/COGNITIO_00002.JPG" alt="drawing" width="450"/>
-<img src="./PPT/COGNITIO_00003.JPG" alt="drawing" width="450"/>
-<img src="./PPT/COGNITIO_00004.JPG" alt="drawing" width="450"/>
-<img src="./PPT/COGNITIO_00005.JPG" alt="drawing" width="450"/>
-<img src="./PPT/COGNITIO_00006.JPG" alt="drawing" width="450"/>
-<img src="./PPT/COGNITIO_00007.JPG" alt="drawing" width="450"/>
-<img src="./PPT/COGNITIO_00008.JPG" alt="drawing" width="450"/>
-<img src="./PPT/COGNITIO_00009.JPG" alt="drawing" width="450"/>
-<img src="./PPT/COGNITIO_00010.JPG" alt="drawing" width="450"/>
-<img src="./PPT/COGNITIO_00011.JPG" alt="drawing" width="450"/>
-<img src="./PPT/COGNITIO_00012.JPG" alt="drawing" width="450"/>
